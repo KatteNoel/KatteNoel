@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KatteNoel!
-- 👀 I’m interested in coding, coffee, and game dev.
+- 👀 I’m interested in coding, coffee, and game dev. Check out my game development portfolio at https://rose-mage-games.itch.io/!
 - 🌱 I’m currently learning React, React Native, TypeScript, Ren'Py, and Python.
 - 💞️ I’m looking to get a job as a junior front end developer.
 - 📫 How to reach me : kattenoel (@) gmail (.) com.
